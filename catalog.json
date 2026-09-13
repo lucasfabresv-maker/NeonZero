@@ -1,0 +1,19 @@
+{
+  "version": "1.1.0",
+  "games": [
+    {
+      "id": "hollow-knight",
+      "title": "Hollow Knight",
+      "genre": "action",
+      "version": "1.5.0",
+      "cover": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=800&auto=format&fit=crop&q=80",
+      "desc": "Forje seu próprio caminho em Hallownest com combates e exploração desafiadora.",
+      "tags": ["METROIDVANIA", "INDIE", "2D"],
+      "hours": "0 horas",
+      "downloadUrl": "https://fuckingfast.co/3huj8xq9wjfi#Hollow_Knight_Silksong_--_fitgirl-repacks.site_--_.part1.rar",
+      "sha256": "COLE_AQUI_O_HASH_SHA256_GERADO",
+      "fileSizeBytes": 157286400,
+      "exeName": "HollowKnight.exe"
+    }
+  ]
+}
